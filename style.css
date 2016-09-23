@@ -3,8 +3,22 @@ body {
   font-weight: 300;
   background-image: url(linedpaper.png);
   background-repeat: repeat;
+  background-color: red;
+  imageurlbackground-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQx5k05pkYHjYUWU6-A0ib41SA0vujULlAkENgBiiZnXSG3p9k9);
 }
 #wrapper {
   width: 960px;
   margin: 20px auto 20px auto;
+}
+#summary {
+  color: Yellow;
+}
+.awesome {
+  color: orange;
+  pont-size: 36px
+}
+.A1 {
+  font-weight: bold;
+  color: blue;
+  width: 100px;
 }
