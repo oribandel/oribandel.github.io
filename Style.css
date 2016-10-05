@@ -1,0 +1,42 @@
+body {
+  font-family: 'helvetica neue', arial, sans-serif;
+  font-weight: 300;
+  font color: black;
+  background-image: url(linedpaper.png);
+  background-repeat: repeat;
+  background-color: white;
+  imageurlbackground-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQx5k05pkYHjYUWU6-A0ib41SA0vujULlAkENgBiiZnXSG3p9k9);
+}
+#wrapper {
+  font-family: "Baloo Bhai", cursive;
+  width: 960px;
+  margin: 20px auto 20px auto;
+}
+#summary {
+  color: Yellow;
+}
+.awesome {
+  color: Gray;
+  pont-size: 36px
+}
+.A1 {
+  font-weight: bold;
+  color: blue;
+  width: 100px;
+}
+.A2 {
+  font-weight: bold;
+  color: purple;
+  width: 300px;
+}
+#ex1 {
+  Color: black;
+  font-style: italic;
+}
+#ex2 {
+    font-style: oblique;
+    font-size: 20px;
+}
+#ex3 {
+  Color: black;
+}
