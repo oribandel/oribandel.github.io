@@ -12,19 +12,18 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
-#summary {
-  color: Yellow;
-}
 .awesome {
+  font-size: 25px;
   color: Gray;
-  pont-size: 36px
 }
 .A1 {
+  font-size: 25px;
   font-weight: bold;
   color: blue;
   width: 100px;
 }
 .A2 {
+  font-size: 25px;
   font-weight: bold;
   color: purple;
   width: 300px;
