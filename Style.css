@@ -14,7 +14,7 @@ body {
 }
 .awesome {
   font-size: 25px;
-  color: Gray;
+  color: black;
 }
 .A1 {
   font-size: 25px;
@@ -30,7 +30,7 @@ body {
 }
 #ex1 {
   Color: black;
-  font-style: italic;
+  font-style: normal;
 }
 #ex2 {
     font-style: oblique;
